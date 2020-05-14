@@ -1,5 +1,9 @@
 nuevo archivo..
 TODO:
+<<<<<<< HEAD
 ABC
-!23
+=======
+
+123
+>>>>>>> 677715b96e3a8090bc48c6e4e847a2e7c32edb0b
 Vamos a generar un conflicto
