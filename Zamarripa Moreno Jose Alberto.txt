@@ -1,2 +1,2 @@
 Desde Vscode
-Desde Vscode Centos
+Desde Vscode Centoss
